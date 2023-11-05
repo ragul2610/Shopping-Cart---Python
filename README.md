@@ -1,5 +1,5 @@
 # Shopping-Cart---Python
-                           Shopping Cart
+                                                              Shopping Cart Program
 
 Create a shopping cart with the following basic functionality:
 
@@ -36,3 +36,4 @@ Create a shopping cart with the following basic functionality:
   ![required output](https://github.com/ragul2610/Shopping-Cart---Python/assets/142657677/77d88dc9-5b2c-4ce3-b4dc-015ef78f458d)
 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0E00.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
